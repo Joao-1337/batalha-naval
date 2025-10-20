@@ -1,2 +1,2 @@
 # batalha-naval
-trabalho para a faculdadeae
+trabalho para a faculdade
